@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reasoniq99.in/sitemap.xml
